@@ -1,6 +1,6 @@
 # Capstone Project
 
-In the Capstone Project, I had the privilege of contributing to the FLATR project, which aimed to revolutionize call quality analysis and incident management in the telecommunications industry. Here's an overview of my involvement and contributions:
+In the Capstone Project, I had the privilege of contributing to the FLATR project with Ribbon Communications, which aimed to revolutionize call quality analysis and incident management in the telecommunications industry. Here's an overview of my involvement and contributio ns:
 
 1. Project Overview:
 - Collaborated with a diverse team to develop innovative solutions for call quality analysis and incident management.
