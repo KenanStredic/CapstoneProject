@@ -21,4 +21,4 @@ In the Capstone Project, I had the privilege of contributing to the FLATR projec
 - Collaborated closely with mentors and peers to navigate challenges, acquire new skills, and contribute to the team's success.
 - Engaged in continuous learning and knowledge sharing to foster a supportive and collaborative team environment.
 
-This Capstone Project provided a valuable opportunity to apply theoretical knowledge to real-world problems, collaborate with industry experts, and make meaningful contributions to the advancement of telecommunications technology.
+This Capstone Project provided a valuable opportunity to apply theoretical knowledge to real-world problems, collaborate with industry experts, and make meaningful contributions to the advancement of telecommunications technology. No code is provided due to a non-disclosure agreement.
